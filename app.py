@@ -4,7 +4,7 @@ print("""Hi user
 this is made by universe_lord to learn python as hes a noob.
 
 
-this is not powerfull to do alot of numbers and cannot do
+this is not powerfull to do alot of numbers and cannot do fraction numbers
 
 
 please input the first number""")
